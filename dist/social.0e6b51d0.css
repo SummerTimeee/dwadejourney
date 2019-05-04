@@ -1,0 +1,13 @@
+/* customizes the header at the very top */
+h1{
+    font-size: 5em;
+    letter-spacing:0.5em;
+    text-align: center;
+    color: yellow;
+} 
+/* customizes the second header */
+h2 {
+    font-size: 2em;
+}
+
+/*# sourceMappingURL=/social.0e6b51d0.css.map */

@@ -1,0 +1,21 @@
+p {
+    font-size: 2em;
+}
+/*customizes header color and letter size */
+h2{
+    font-size: 5em;
+    letter-spacing:0.5em;
+    text-align: center;
+    color: green;
+}
+/*makes the paragraph bold */
+#thick {
+    font-weight: bold;
+    text-align: center;
+    font-size: 3em;
+}
+/* allows  the images to be centered*/
+#img {
+    margin-left: 22%;
+}
+

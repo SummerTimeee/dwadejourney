@@ -1,0 +1,11 @@
+h1{
+    font-size: 5em;
+    letter-spacing:0.5em;
+    text-align: center;
+    color:orangered;
+}
+/* customizes the video to be centered */
+#video {
+    margin-left: 20%;
+    margin-top: 10%;
+}
